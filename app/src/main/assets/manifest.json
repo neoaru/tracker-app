@@ -1,0 +1,12 @@
+{
+  "name": "Tally — Habit Tracker",
+  "short_name": "Tally",
+  "description": "A quiet ledger for the things you do daily.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#14171C",
+  "theme_color": "#14171C",
+  "orientation": "portrait",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
